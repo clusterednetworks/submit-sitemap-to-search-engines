@@ -1,7 +1,9 @@
 # submit-sitemap-to-search-engines
 This shell script will submit your sitemap files to google and bing search engines on a regular basis
-simply edit the urls you wish to submit and setup a cronjob to submit daily or weekly as required
-for more information contact clusterednetworks.com
+simply edit the urls you wish to submit and setup a cronjob to submit daily or weekly as required.
+For more information visit clusterednetworks.com
+
+
 
 # Usage:
 
